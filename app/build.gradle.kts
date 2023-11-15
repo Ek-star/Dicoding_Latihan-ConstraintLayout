@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.latihanconstraintlayout"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.latihanconstraintlayout"
